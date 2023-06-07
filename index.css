@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/046/348/753/large/akshath-rao-381499.jpg?1644915224);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: "century gothic";
+    flex-direction: column;
+    justify-content: space-between;
+}
+.header {
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(161, 162, 163, 0.712);
+    border-radius: 15px;
+    justify-content: space-around;
+}
+.footer {
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(161, 162, 163, 0.712);
+    border-radius: 15px;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.main {
+    display: flex;
+    flex: 5 5;
+    flex-direction: column;
+    
+}
