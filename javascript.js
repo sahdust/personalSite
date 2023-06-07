@@ -1,0 +1,1 @@
+alert("Thank you for visiting my humble page! It's a work in progress, so don't judge it too harshly")

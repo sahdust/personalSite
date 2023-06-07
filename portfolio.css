@@ -34,7 +34,16 @@ body {
     flex: 5 5;
     flex-direction: column;
     justify-content: space-around;
-    
-    
-    
+        
+}
+a:link{
+    color: rgb(254, 148, 61);
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(254, 148, 61);
+    text-decoration: none;
+}
+a:hover{
+    color: black;
 }
