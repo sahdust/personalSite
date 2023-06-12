@@ -10,7 +10,6 @@ body {
     font-size: 25px;
     font-family: "century gothic";
     flex-direction: column;
-    justify-content: space-between;
 }
 .header {
     display: flex;
@@ -20,20 +19,14 @@ body {
     border-radius: 15px;
     justify-content: space-around;
 }
-.footer {
+h2{
     display: flex;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: rgba(161, 162, 163, 0.712);
-    border-radius: 15px;
-    justify-content: space-around;
-    align-items: flex-end;
+    justify-content: center;
 }
-.main {
+.form {
     display: flex;
-    flex: 5 5;
-    flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+
         
 }
 a:link{
