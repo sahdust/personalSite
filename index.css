@@ -42,9 +42,6 @@ img{
     border-radius: 5px;
     border: solid 5px rgba(161, 162, 163, 0.5);
 }
-img:hover{
-    transform: scale(1.25);
-}
 a:link{
     color: rgb(254, 148, 61);
     text-decoration: none;
